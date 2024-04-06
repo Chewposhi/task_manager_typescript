@@ -1,6 +1,10 @@
 # Introduction
 
-This project is a web-based task management dashboard written in TypeScript. 
+This project is a web-based task management dashboard written in TypeScript with unit tesing using Vitest
+
+## Structure
+### src: source code
+### test: test scripts
 
 ## Features
 ### 1. Add tasks
